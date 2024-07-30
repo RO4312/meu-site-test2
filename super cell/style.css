@@ -1,0 +1,115 @@
+:root{
+    --fonte1:'inter';
+    
+}
+
+
+
+
+head{
+    background-size: cover ;
+    background-attachment: fixed;
+    background-color: rgb(255, 255, 255);
+    background-position: center center;
+
+}
+
+.docampoacidade{
+          color: rgb(0, 0, 0);
+          font-family: var(--fonte1);
+          font-size: xxx-large;
+
+}
+
+              
+.lorem{
+    color: black;
+    font-family: var(--fonte1);
+    background-position-x:100px;
+    background-color: aquamarine;
+    display:flex;
+    
+    
+    
+
+
+}
+
+
+
+div {
+    display: block;
+    height: 120px;
+    width:auto ;
+    border-radius: 10px;
+    
+   
+    
+    
+   }
+
+   .li {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 10px;
+    color: black;
+    font-family: var(--fonte1);
+  }
+ .docampo:hover{
+    padding: 10px;
+  }
+       a:hover{
+    color:  rgb(10, 165, 165);
+    
+       }
+  a{      margin-top: -4px;  /* distancis do topo */
+    
+    background-color: transparent;
+    border-radius: 4px;
+    padding: 1em;
+    display: block;
+    width: 115px;
+    text-decoration: none ;
+
+
+    
+    font-size:xx-large;
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+.docampo  {
+    height: 200px;
+    width: 250px;
+    margin-top:-55px ;
+    margin-left: -55px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
